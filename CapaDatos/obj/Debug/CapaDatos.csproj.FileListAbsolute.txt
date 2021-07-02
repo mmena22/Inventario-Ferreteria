@@ -1,0 +1,30 @@
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\bin\Debug\packages.config
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\bin\Debug\packages.config
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\bin\Debug\packages.config
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaDatos\obj\Debug\CapaDatos.pdb

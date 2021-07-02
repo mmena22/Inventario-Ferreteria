@@ -1,0 +1,22 @@
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Entidades\bin\Debug\Entidades.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Entidades\bin\Debug\Entidades.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Entidades\obj\Debug\Entidades.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Entidades\obj\Debug\Entidades.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Entidades\bin\Debug\Entidades.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Entidades\bin\Debug\Entidades.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Entidades\bin\Debug\Utilitarios.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Entidades\bin\Debug\Utilitarios.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Entidades\obj\Debug\Entidades.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Entidades\obj\Debug\Entidades.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Entidades\bin\Debug\Entidades.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Entidades\bin\Debug\Utilitarios.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Entidades\bin\Debug\Utilitarios.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Entidades\obj\Debug\Entidades.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Entidades\obj\Debug\Entidades.pdb

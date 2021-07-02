@@ -1,0 +1,19 @@
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Utilitarios\bin\Debug\Utilitarios.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Utilitarios\bin\Debug\Utilitarios.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Utilitarios\bin\Debug\Entidades.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Utilitarios\bin\Debug\Entidades.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Utilitarios\obj\Debug\Utilitarios.csproj.CopyComplete
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Utilitarios\obj\Debug\Utilitarios.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Utilitarios\obj\Debug\Utilitarios.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Utilitarios\bin\Debug\Utilitarios.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Utilitarios\bin\Debug\Utilitarios.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Utilitarios\obj\Debug\Utilitarios.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Utilitarios\obj\Debug\Utilitarios.csprojAssemblyReference.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Utilitarios\obj\Debug\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Utilitarios\obj\Debug\Utilitarios.pdb

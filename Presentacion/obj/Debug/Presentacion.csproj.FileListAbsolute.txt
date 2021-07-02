@@ -1,0 +1,82 @@
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\bin\Debug\Presentacion.exe.config
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\bin\Debug\Presentacion.exe
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\bin\Debug\Presentacion.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmRecuperarContrasena.resources
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\obj\Debug\Presentacion.exe
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\obj\Debug\Presentacion.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\bin\Debug\Entidades.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\bin\Debug\Negocio.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\bin\Debug\Utilitarios.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\bin\Debug\Entidades.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\bin\Debug\Negocio.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\bin\Debug\Utilitarios.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\Presentacion.exe.config
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\Presentacion.exe
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\Presentacion.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\Entidades.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\Negocio.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\Utilitarios.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\Entidades.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\Negocio.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\Utilitarios.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmRecuperarContrasena.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.exe
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\AccesoDatos.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\AccesoDatos.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\bin\Debug\AccesoDatos.dll.config
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmPrestamos.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.DlgPrestamoDetalle.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.DlgPagarCuota.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.DlgRegistrarPersona.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.DlgBuscarPersona.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmPersonas.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmReporteClientes.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmReporteUsuarios.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmSeguridadUsuario.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.DlgPrestamoDetalleReporte.resources
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Presentacion\obj\Debug\Presentacion.FrmReportePrestamos.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\Entidades.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\Negocio.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\Utilitarios.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\Utilitarios.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\bin\Debug\AccesoDatos.dll.config
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.DlgPagarCuota.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.DlgPrestamoDetalleReporte.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.DlgPrestamoDetalle.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.DlgBuscarPersona.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.FrmPersonas.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.DlgRegistrarPersona.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.FrmPrestamos.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.FrmRecuperarContrasena.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.FrmReportePrestamos.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.FrmReporteClientes.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.FrmReporteUsuarios.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.FrmSeguridadUsuario.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Presentacion\obj\Debug\Presentacion.pdb

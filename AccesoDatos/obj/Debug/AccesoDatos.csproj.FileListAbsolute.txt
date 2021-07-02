@@ -1,0 +1,28 @@
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\bin\Debug\Entidades.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\bin\Debug\Utilitarios.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\bin\Debug\Entidades.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\bin\Debug\Utilitarios.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\bin\Debug\Utilitarios.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\bin\Debug\Utilitarios.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\AccesoDatos\obj\Debug\AccesoDatos.pdb

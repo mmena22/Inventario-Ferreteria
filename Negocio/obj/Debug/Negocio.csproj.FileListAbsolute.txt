@@ -1,0 +1,32 @@
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Negocio\bin\Debug\Negocio.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Negocio\bin\Debug\Negocio.pdb
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Negocio\obj\Debug\Negocio.dll
+D:\proyectos\externos\Mauricio Extranjero\financiera\Financiera\Negocio\obj\Debug\Negocio.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\obj\Debug\Negocio.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\obj\Debug\Negocio.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\bin\Debug\Negocio.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\bin\Debug\Negocio.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\bin\Debug\AccesoDatos.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\bin\Debug\Entidades.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\bin\Debug\Utilitarios.dll
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\bin\Debug\AccesoDatos.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\bin\Debug\AccesoDatos.dll.config
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\bin\Debug\Entidades.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\bin\Debug\Utilitarios.pdb
+D:\proyectos\externos\Mauricio Extranjero\ext-mauricio-financiera\Financiera\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\bin\Debug\Negocio.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\bin\Debug\Negocio.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\bin\Debug\Entidades.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\bin\Debug\Utilitarios.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\bin\Debug\Entidades.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\bin\Debug\Utilitarios.pdb
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\obj\Debug\Negocio.dll
+C:\Users\mmena\Desktop\Proyecto Final Progra\ext-mauricio-financiera-main\Financiera\Negocio\obj\Debug\Negocio.pdb

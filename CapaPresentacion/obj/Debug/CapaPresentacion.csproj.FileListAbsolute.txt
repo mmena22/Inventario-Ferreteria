@@ -1,0 +1,214 @@
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.Consulta.FrmConsultaStockArticulos.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAcercaDe.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBackupBD.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloIngreso.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloVenta.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaArticulo.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaClienteVenta.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedorIngreso.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulos.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategorias.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCliente.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportePresentacion.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProveedor.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteStockArticulos.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajador.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\SisVentas-master\CapaPresentacion\bin\Debug\packages.config
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\packages.config
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.Consulta.FrmConsultaStockArticulos.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAcercaDe.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBackupBD.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloIngreso.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloVenta.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaArticulo.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaClienteVenta.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedorIngreso.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulos.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategorias.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCliente.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportePresentacion.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProveedor.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteStockArticulos.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajador.resources
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\mmena\Downloads\Analisis de sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.Consulta.FrmConsultaStockArticulos.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAcercaDe.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBackupBD.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloIngreso.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloVenta.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaArticulo.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaClienteVenta.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedorIngreso.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulos.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategorias.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCliente.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportePresentacion.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProveedor.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteStockArticulos.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajador.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.Consulta.FrmConsultaStockArticulos.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAcercaDe.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBackupBD.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloIngreso.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloVenta.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaArticulo.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaClienteVenta.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedorIngreso.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulos.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategorias.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCliente.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportePresentacion.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProveedor.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteStockArticulos.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajador.resources
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
