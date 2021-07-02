@@ -1,6 +1,8 @@
 ﻿using CapaNegocio;
 using System.Data;
 using System.Windows.Forms;
+using System.Drawing;
+using System;
 
 namespace CapaPresentacion
 {
@@ -32,6 +34,8 @@ namespace CapaPresentacion
             }
         }
 
+
+
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Application.Exit();
@@ -39,7 +43,17 @@ namespace CapaPresentacion
 
         private void btnIngresar_Click(object sender, System.EventArgs e)
         {
-            Ingresar();
+
+            if (lbl_Captcha.Text == txt_Captcha.Text)
+            {
+                MessageBox.Show("Usted no es un bot", "Validado", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Ingresar();
+            }
+            else
+            {
+                MessageBox.Show("Usted podria ser un bot, reintente", "Denegado", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                this.OnLoad(e);
+            }
 
         }
 
@@ -62,6 +76,37 @@ namespace CapaPresentacion
             {
                 Ingresar();
             }
+        }
+
+        private void FrmLogin_Load(object sender, System.EventArgs e)
+        {
+            #region Metodo del captcha
+            Random rand = new Random();
+                int iColor = rand.Next(0, 255);
+                int iColor2 = rand.Next(0, 255);
+                int iColor3 = rand.Next(0, 255);
+                int iNum = rand.Next(7, 9);
+                string sCaptcha = "";
+                int iTotal = 0;
+                do
+                {
+                    int chr = rand.Next(48, 123);
+                    if ((chr >= 48 && chr <= 57) || (chr >= 65 && chr <= 90) || (chr >= 97 && chr <= 122))
+                    {
+                        sCaptcha = sCaptcha + (char)chr;
+                        iTotal++;
+                        if (iTotal == iNum)
+                            break;
+                        {
+
+                        }
+                    }
+                }
+                while (true);
+                lbl_Captcha.ForeColor = Color.FromArgb(iColor, iColor2, iColor3);
+                lbl_Captcha.Text = sCaptcha;
+
+            #endregion
         }
     }
 }

@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.txt_Captcha = new System.Windows.Forms.TextBox();
+            this.lbl_Captcha = new System.Windows.Forms.Label();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnIngresar = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
@@ -43,6 +45,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.panel1.Controls.Add(this.txt_Captcha);
+            this.panel1.Controls.Add(this.lbl_Captcha);
             this.panel1.Controls.Add(this.btnCancelar);
             this.panel1.Controls.Add(this.btnIngresar);
             this.panel1.Controls.Add(this.label2);
@@ -51,8 +55,29 @@
             this.panel1.Controls.Add(this.txtUsuario);
             this.panel1.Location = new System.Drawing.Point(33, 39);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(320, 248);
+            this.panel1.Size = new System.Drawing.Size(378, 360);
             this.panel1.TabIndex = 0;
+            // 
+            // txt_Captcha
+            // 
+            this.txt_Captcha.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_Captcha.Location = new System.Drawing.Point(97, 229);
+            this.txt_Captcha.Name = "txt_Captcha";
+            this.txt_Captcha.Size = new System.Drawing.Size(156, 26);
+            this.txt_Captcha.TabIndex = 8;
+            // 
+            // lbl_Captcha
+            // 
+            this.lbl_Captcha.AutoSize = true;
+            this.lbl_Captcha.BackColor = System.Drawing.SystemColors.HighlightText;
+            this.lbl_Captcha.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lbl_Captcha.Font = new System.Drawing.Font("Pristina", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_Captcha.ForeColor = System.Drawing.Color.DarkViolet;
+            this.lbl_Captcha.Location = new System.Drawing.Point(123, 170);
+            this.lbl_Captcha.Name = "lbl_Captcha";
+            this.lbl_Captcha.Size = new System.Drawing.Size(105, 44);
+            this.lbl_Captcha.TabIndex = 7;
+            this.lbl_Captcha.Text = "captcha";
             // 
             // btnCancelar
             // 
@@ -61,7 +86,7 @@
             this.btnCancelar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancelar.ForeColor = System.Drawing.Color.White;
-            this.btnCancelar.Location = new System.Drawing.Point(161, 179);
+            this.btnCancelar.Location = new System.Drawing.Point(194, 274);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(100, 33);
             this.btnCancelar.TabIndex = 6;
@@ -76,7 +101,7 @@
             this.btnIngresar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnIngresar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIngresar.ForeColor = System.Drawing.Color.White;
-            this.btnIngresar.Location = new System.Drawing.Point(55, 179);
+            this.btnIngresar.Location = new System.Drawing.Point(42, 274);
             this.btnIngresar.Name = "btnIngresar";
             this.btnIngresar.Size = new System.Drawing.Size(100, 33);
             this.btnIngresar.TabIndex = 5;
@@ -156,7 +181,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Highlight;
-            this.ClientSize = new System.Drawing.Size(388, 322);
+            this.ClientSize = new System.Drawing.Size(433, 422);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.panel1);
@@ -164,6 +189,7 @@
             this.Name = "FrmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Acceso al Sistema";
+            this.Load += new System.EventHandler(this.FrmLogin_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
@@ -182,5 +208,7 @@
         private System.Windows.Forms.TextBox txtUsuario;
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox txt_Captcha;
+        private System.Windows.Forms.Label lbl_Captcha;
     }
 }

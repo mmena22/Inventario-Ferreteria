@@ -34,3 +34,15 @@ C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSolucione
 C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\bin\Debug\packages.config
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaNegocio\obj\Debug\CapaNegocio.pdb

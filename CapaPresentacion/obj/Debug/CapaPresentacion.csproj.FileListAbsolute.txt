@@ -212,3 +212,35 @@ C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSolucione
 C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.Consulta.FrmConsultaStockArticulos.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAcercaDe.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBackupBD.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCliente.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmIngreso.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedor.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTrabajador.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVenta.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloIngreso.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaArticuloVenta.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoriaArticulo.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaClienteVenta.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaProveedorIngreso.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteArticulos.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCategorias.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteCliente.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteFactura.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportePresentacion.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteProveedor.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteStockArticulos.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporteTrabajador.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

@@ -79,3 +79,27 @@ C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSolucione
 C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\SisVentas\obj\Debug\FerriSoluciones.csproj.CopyComplete
 C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\SisVentas\obj\Debug\SisVentas.exe
 C:\Users\mmena\Desktop\UAM\Curso Analisis sistemas\Proyecto Final\FerriSoluciones\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\bin\Debug\CapaDatos.dll.config
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\obj\Debug\FerriSoluciones.csprojAssemblyReference.cache
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\obj\Debug\FerriSoluciones.csproj.GenerateResource.cache
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\obj\Debug\FerriSoluciones.csproj.CoreCompileInputs.cache
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\obj\Debug\FerriSoluciones.csproj.CopyComplete
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Zabumafu\Documents\GitHub\Inventario-Ferreteria\SisVentas\obj\Debug\SisVentas.pdb
